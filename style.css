@@ -1,27 +1,26 @@
-*{
-    background-image: url(./images/IN-en-20221114-popsignuptwoweeks-perspective_alpha_website_medium.jpg);
-    margin: 0;
-    padding: 0;
+* {
+  background-image: url(./images/IN-en-20221114-popsignuptwoweeks-perspective_alpha_website_medium.jpg);
+  margin: 0;
+  padding: 0;
 }
-.container{
-    border: 5px solid rgb(39, 24, 172);
+.container {
+  border: 5px solid rgb(39, 24, 172);
 }
-.back{
-    z-index: -3;
-    border: 2px solid green;
-    height: 100vh;
+.back {
+  z-index: -3;
+  border: 2px solid green;
+  height: 100vh;
 }
-.img_logo{
-    height: 56px;
-    margin: 24px;
+.img_logo {
+  height: 56px;
+  margin: 24px;
 }
-.btn{
-    display: flex;
-    flex-direction: column;
-    padding: 12px;
-    margin: 43px 147px 28px 1000px;
-    background-color: rgb(122, 38, 38);
-    color: white;
-    border-radius: 5px;
-
+.btn {
+  display: flex;
+  flex-direction: column;
+  padding: 12px;
+  margin: 43px 147px 28px 1000px;
+  background-color: rgb(4, 51, 138);
+  color: rgb(110, 15, 15);
+  border-radius: 5px;
 }
